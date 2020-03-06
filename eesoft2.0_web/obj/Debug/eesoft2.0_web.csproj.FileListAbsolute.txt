@@ -1,0 +1,116 @@
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\eesoft2.0_web.dll.config
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\eesoft2.0_web.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\eesoft2.0_web.pdb
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\Newtonsoft.Json.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Net.Http.Formatting.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Helpers.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Http.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Http.WebHost.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Mvc.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Razor.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.WebPages.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Razor.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\Newtonsoft.Json.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Net.Http.Formatting.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Helpers.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Http.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Http.WebHost.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Mvc.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.Razor.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.WebPages.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Razor.xml
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.csprojResolveAssemblyReference.cache
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.dll
+C:\Users\E002746\Documents\RAMU\SCS\Client\eesoft2.0\source\eesoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.pdb
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\eesoft2.0_web.dll.config
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\eesoft2.0_web.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\eesoft2.0_web.pdb
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\Newtonsoft.Json.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Net.Http.Formatting.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Helpers.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Http.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Http.WebHost.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Mvc.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Razor.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.WebPages.Deployment.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.WebPages.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.WebPages.Razor.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\Newtonsoft.Json.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Net.Http.Formatting.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Helpers.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Http.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Http.WebHost.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Mvc.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.Razor.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.WebPages.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.WebPages.Deployment.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\bin\System.Web.WebPages.Razor.xml
+E:\Git\eesofttech-2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.csprojResolveAssemblyReference.cache
+E:\Git\eesofttech-2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.dll
+E:\Git\eesofttech-2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.pdb
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\eesoft2.0_web.dll.config
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\eesoft2.0_web.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\eesoft2.0_web.pdb
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\Microsoft.Web.Infrastructure.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\Newtonsoft.Json.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Net.Http.Formatting.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Helpers.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Http.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Http.WebHost.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Mvc.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Razor.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.WebPages.Deployment.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.WebPages.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.WebPages.Razor.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\Newtonsoft.Json.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Net.Http.Formatting.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Helpers.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Http.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Http.WebHost.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Mvc.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.Razor.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.WebPages.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.WebPages.Deployment.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\bin\System.Web.WebPages.Razor.xml
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\obj\Debug\eesoft2.0_web.csprojAssemblyReference.cache
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\obj\Debug\eesoft2.0_web.csproj.CoreCompileInputs.cache
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\obj\Debug\eesoft2.0_web.csproj.CopyComplete
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\obj\Debug\eesoft2.0_web.dll
+E:\EESOFT\eesofttech-2.0.v\eesoft2.0_web\obj\Debug\eesoft2.0_web.pdb
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\eesoft2.0_web.dll.config
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\eesoft2.0_web.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\eesoft2.0_web.pdb
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\Microsoft.Web.Infrastructure.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\Newtonsoft.Json.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Net.Http.Formatting.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Helpers.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Http.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Http.WebHost.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Mvc.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Razor.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Deployment.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.WebPages.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Razor.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\Newtonsoft.Json.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Net.Http.Formatting.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Helpers.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Http.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Http.WebHost.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Mvc.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.Razor.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.WebPages.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Deployment.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\bin\System.Web.WebPages.Razor.xml
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.csprojAssemblyReference.cache
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.csproj.CoreCompileInputs.cache
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.csproj.CopyComplete
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.dll
+E:\EESOFT\New folder\EESoft2.0\eesoft2.0_web\obj\Debug\eesoft2.0_web.pdb
